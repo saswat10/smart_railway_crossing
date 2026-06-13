@@ -6,6 +6,7 @@
     "hidden_netclasses": [],
     "hidden_nets": [
       "+3V3",
+      "GND",
       "Net-(D1_GREEN1-A)",
       "Net-(U1-IO14)",
       "+5V",
